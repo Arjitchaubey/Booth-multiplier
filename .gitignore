@@ -1,0 +1,16 @@
+.Xil/
+.runs/
+.cache/
+.ip_user_files/
+.hw/
+.sim/
+*.jou
+*.log
+*.str
+*.pb
+*.dmp
+*.wdb
+*.xml
+*.backup
+*.html
+*.csv
